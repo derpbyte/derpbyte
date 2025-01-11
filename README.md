@@ -1,10 +1,9 @@
-> [!CAUTION]  
-> This user commits programming war crimes.
-
 ### Welcome to the profile of [@derpbyte!](https://github.com/derpbyte)
 
 
-I develop frontend applications (mostly)
+
+> [!CAUTION]  
+> This user commits programming war crimes.
 
 ![](https://img.shields.io/badge/Java-e84f20?style=for-the-badge&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=FFD43B)
